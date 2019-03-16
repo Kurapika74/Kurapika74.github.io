@@ -1,2 +1,2 @@
-# -Kurapika74.github.io
-blog
+# Kurapika74.github.io
+this is my blog
